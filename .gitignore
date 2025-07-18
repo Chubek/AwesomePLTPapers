@@ -1,0 +1,6 @@
+# I add all the PDF files post-upload to ignore file
+# Because I don't want my disk to blow up
+
+essence-of-meta-tracing.pdf  
+opt-code-copying-jit-vm.pdf  
+vm-non-restrict-fn.pdf
